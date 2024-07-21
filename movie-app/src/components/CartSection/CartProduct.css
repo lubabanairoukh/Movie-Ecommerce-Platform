@@ -1,0 +1,37 @@
+.productss {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid #BACDDB;
+    margin: 8px;
+    width: 50%;
+}
+
+.productss img {
+    width: 15%;
+    height: auto;
+    margin-right: 8px;
+}
+
+.delete-icon {
+    cursor: pointer;
+}
+
+
+.price {
+
+
+    background-color: white;
+    padding: 70px;
+    border-radius: 10px;
+
+
+    width: 50%;
+
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 50%;
+}

@@ -1,0 +1,131 @@
+img {
+    width: 95%;
+    border-radius: 20px;
+    height: 45%;
+    margin-left: 1vh;
+
+
+}
+
+body {
+    background-color: gray;
+    font-family: 'Raleway', 'sans-serif';
+
+}
+.input-group .input-group-text {
+    padding: 10px; /* Adjust the value as needed */
+    cursor: pointer; /* Add this line */
+    color:blue;
+}
+
+.input-group .input-group-text:hover {
+    cursor: pointer;
+    color: blue; /* Change the color as desired */
+}
+.all-Products{
+    max-width: 1350px; /* Adjust this value as needed */
+    margin-top: 3vh;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.TitleSearch {
+    margin-bottom: 5vh;
+    justify-content: left;
+}
+.Card{
+    justify-content: center;
+}
+.Search-Page{
+    justify-content: center;
+    margin-top: 14vh;
+    flex-wrap: wrap;
+
+}
+.Filter-side {
+    margin-top: 30vh;
+    outline: 2px solid gray;
+    background-color: transparent;
+    color: white; /* Set the text color to gray */
+    border-color: white;
+    box-shadow: none;
+    border-radius: 20px;
+    margin-bottom: 5vh;
+}
+
+.input-group {
+    width: 550px; /* Add this line */
+    max-width: 1500px; /* Adjust the value as needed */
+}
+
+.product {
+    background-color: white;
+    padding: 8px;
+    border-radius: 15px;
+    border: 1px solid #BACDDB;
+    margin: 8px; /* Adjust this value as needed */
+    width: calc((100% - 48px) / 3); /* Adjust this value as needed */
+}
+
+.tag {
+    padding: 4px 8px;
+    border: 1px solid #E5EAED;
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #788697;
+}
+
+.tag-Price {
+    padding: 4px 8px;
+    border: 1px solid #E5EAED;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    color: darkred;
+    float: right;
+    outline: 2px solid black;
+}
+
+.product-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+p {
+    font-size: 12px;
+    color: #7F8C9B;
+    line-height: 150%;
+}
+
+.button-css{
+    border: none;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    color: #0077FF;
+    background-color: #E0EFFF;
+    margin: 0 auto;
+}
+button {
+    border: none;
+    font-size: 14px;
+    padding: 8px 13px;
+    border-radius: 40px;
+    font-weight: 500;
+    color: #0077FF;
+    background-color: #E0EFFF;
+    margin: 0 auto;
+}
+
+.product-details {
+    padding: 16px 8px 8px 8px;
+}
+
+.small-box {
+    padding:10px;
+    font-size: 16px;
+    /* Add any other styling properties you want to make the box smaller */
+}

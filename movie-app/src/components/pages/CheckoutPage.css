@@ -1,0 +1,14 @@
+.form {
+    margin-top: 20vh;
+    margin-left: 60vh;
+    padding: 1em;
+    width: 37%;
+    border: 1px solid white; /* Set the outline color */
+    border-radius: 30px;
+    background-color: transparent;
+
+}
+
+label {
+    font-weight: 600;
+}

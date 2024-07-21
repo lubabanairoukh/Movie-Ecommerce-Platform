@@ -1,0 +1,10 @@
+.ccard {
+	padding: 8px;
+	border-radius: 10px;
+	margin: 8px;
+	width: calc((100% - 48px) / 3);
+	outline: 2px solid gray; /* Set the outline color */
+	
+	/* Remove the background color */
+	background-color: transparent;
+}

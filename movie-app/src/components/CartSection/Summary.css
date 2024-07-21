@@ -1,0 +1,70 @@
+.title{
+    margin-bottom: 5vh;
+}
+.cardss{
+    margin-top: 10vh;
+    width: 80%;
+    margin-left: 30vh;
+}
+
+.cart{
+    background-color: #fff;
+    padding: 4vh 5vh;
+    border-bottom-left-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+.summary{
+    background-color: #ddd;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    padding: 4vh;
+    color: rgb(65, 65, 65);
+}
+
+
+.main{
+    margin: 0;
+    padding: 2vh 0;
+    width: 100%;
+}
+
+
+.close{
+    margin-left: auto;
+    font-size: 0.7rem;
+}
+
+h5{
+    margin-top: 4vh;
+}
+
+
+form{
+    padding: 2vh 0;
+}
+.summary select{
+    border: 1px solid rgba(0, 0, 0, 0.137);
+    padding: 1.5vh 1vh;
+    margin-bottom: 4vh;
+    outline: none;
+    width: 100%;
+    background-color: rgb(247, 247, 247);
+}
+.summary .btn{
+    background-color: #000;
+    border-color: #000;
+    color: white;
+    width: 100%;
+    font-size: 0.7rem;
+    margin-top: 4vh;
+    padding: 1vh;
+    border-radius: 0;
+}
+
+
+.delete-all {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
